@@ -1,0 +1,8 @@
+{
+  "name": "bpkg-test-package-bin",
+  "version": "0.0.1",
+  "description": "Test repo for package.bin installation support",
+  "bin": {
+    "test": "./test.sh"
+  }
+}
